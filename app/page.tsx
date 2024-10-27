@@ -11,7 +11,7 @@ export default function Home() {
       <p style={{color: "#606060", fontSize: "32px", fontWeight: "400",lineHeight: "37.44px"}}>Now I’m an interactive media design student in Istanbul ⏤ currently freelancing and seeking internship opportunities.</p>
       </div>
       <div className="w-1/2 ">
-      <img src="/OIP (1).jfif" alt="main" className="w-[421px] h-[500px] ml-[295px]"/></div>
+      <Image src="OIP (1).jfif" alt="main" className="w-[421px] h-[500px] ml-[295px]"></Image></div>
 
       
     </div>
